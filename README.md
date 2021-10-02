@@ -1,1 +1,2 @@
-# timer_py - Using timer module of python - It's amazing
+# timer_py - Using timer module - It's amazing
+This project is created using python
